@@ -1,0 +1,14 @@
+#num1{
+    color: blue;
+}
+
+.num2{
+    color: greenyellow;
+}
+[value = "3"]{
+    color: royalblue;
+}
+
+li[draggable = "true"]{
+    color: blueviolet;
+}
