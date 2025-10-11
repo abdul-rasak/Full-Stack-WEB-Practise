@@ -16,3 +16,7 @@ console.log(sister['nameOfInstitution']);
 
 let institution = 'nameOfInstitution'
 console.log(sister[institution]);
+
+let new_age = 'age';
+console.log(sister[new_age]);
+
